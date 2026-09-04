@@ -1,8 +1,9 @@
 {
-  "name": "bekaslisans",
   "owner": {
-    "github": "bekasmurat42-cloud"
+    "username": "bekasmurat42-cloud",
+    "email": "bekasmurat42@gmail.com"
   },
-  "claimedAt": "2026-09-04T15:46:00.414Z",
-  "records": {}
+  "record": {
+    "CNAME": "white-breeze-2f86.bekasmurat42.workers.dev"
+  }
 }
